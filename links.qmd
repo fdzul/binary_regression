@@ -5,6 +5,12 @@ editor:
     wrap: 72
 ---
 
+# Tidy Modeling with R
+
+[![](https://www.tidymodels.org/books/tmwr/cover.png)](https://www.tidymodels.org/books/tmwr/)
+
+------------------------------------------------------------------------
+
 # Modelling Binary Data
 
 [![](https://images.routledge.com/common/jackets/amazon/978158488/9781584883241.jpg)](https://www.routledge.com/Modelling-Binary-Data/Collett/p/book/9781584883241)
@@ -27,7 +33,6 @@ editor:
 
 [![](https://images.routledge.com/common/jackets/amazon/978113810/9781138106710.jpg)](https://www.routledge.com/Logistic-Regression-Models/Hilbe/p/book/9781138106710)
 
-
 ------------------------------------------------------------------------
 
 # Practical Guide to Logistic Regression
@@ -37,7 +42,7 @@ editor:
 ------------------------------------------------------------------------
 
 # Logistic Regression
+
 Bridging Theory and Practice
 
 [![](https://images.routledge.com/common/jackets/amazon/978104124/9781041248118.jpg)](https://www.routledge.com/Logistic-Regression-Bridging-Theory-and-Practice/Doosti/p/book/9781041248118)
-

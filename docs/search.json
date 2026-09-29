@@ -102,7 +102,7 @@
     "href": "Labs.html#laboratorio-de-la-unidad-ii",
     "title": "Binary Regression",
     "section": "Laboratorio de la Unidad II",
-    "text": "Laboratorio de la Unidad II\n\nObjetivo.\nQue el personal de vectores desarrolle las competencias específicas para realizar la geocodificación y el análisis de los focos de la transmisión activa de las arbovirosis en R\n\n\nActividad 1\n\n\nActividad 2"
+    "text": "Laboratorio de la Unidad II\n\nObjetivo.\n\n\nActividad 1\n\n\nActividad 2"
   },
   {
     "objectID": "contacto.html",
@@ -114,8 +114,8 @@
   {
     "objectID": "links.html",
     "href": "links.html",
-    "title": "Modelling Binary Data",
+    "title": "Tidy Modeling with R",
     "section": "",
-    "text": "Modelling Binary Data\n\n\n\n\nApplied Logistic Regression\n\n\n\n\nGeneralized Linear Models and Extensions\n\n\n\n\nLogistic Regression Models\n\n\n\n\nPractical Guide to Logistic Regression\n\n\n\n\nLogistic Regression\nBridging Theory and Practice"
+    "text": "Tidy Modeling with R\n\n\n\n\nModelling Binary Data\n\n\n\n\nApplied Logistic Regression\n\n\n\n\nGeneralized Linear Models and Extensions\n\n\n\n\nLogistic Regression Models\n\n\n\n\nPractical Guide to Logistic Regression\n\n\n\n\nLogistic Regression\nBridging Theory and Practice"
   }
 ]
