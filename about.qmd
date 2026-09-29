@@ -1,0 +1,75 @@
+---
+title: ""
+---
+
+## Requisitos
+
+
+## Formato del Curso
+
+- Curso presencial.
+
+- 10:00 a 12:00 horas
+
+## Sede
+
+- Aula 4-5
+
+- Instituto Nacional de Salud Pública.
+
+- Universidad No. 655 Colonia Santa María Ahuacatitlán, Cerrada Los Pinos y Caminera. Cuernavaca, Morelos, México.
+
+```{r, echo=FALSE}
+mapview::mapviewOptions(basemaps = c("Esri.WorldImagery","OpenStreetMap", "OpenTopoMap"))
+tibble::tibble(lat = c(18.977114),
+               long = c(-99.245965),
+               auditorio = c("INSP")) |>
+    sf::st_as_sf(coords = c("long", "lat"),
+                 crs = 4326) |>
+mapview::mapview(zcol = "auditorio",
+                 layer.name = "INSP")
+```
+
+## Fecha
+
+Del 29 septiembre a 30 de octubre del 2026
+
+## Requisitos de conceptos teóricos
+
+Es ideal tener conocimiento de regresiones líneales, regresiones para datos de conteos o regresiones para datos binarios, pero no es necesario.
+
+## Requisitos computacionales
+
+Es deseable tener experiencia en R o Python o cualquier otro lenguaje de programación, principalmente en subir archivos de texto (csv, txt, xlsx),  crear gráficos simples y manipular bases de datos en R. Sin embargo, si no se tiene experiencia con R pero ya usa otros software y tiene un conocimiento sólido de los tipos de datos geográficos, algo o nula experiencia en programación, el curso también puede ser apropiado para usted siempre y cuando tenga la necesidad ó el deseo aprender nuevas herramientas GLM y datos binarios en R.
+
+## Requisitos de Equipo & Software
+
+- **Computadora**
+
+  Se requiere una computadora portátil con una versión funcional de R, RStudio y Rtools. R y RStudio están disponibles como software gratuito y de código abierto para Windows, Mac y Linux. R y Rtools se puede descargar siguiendo el enlace <https://www.r-project.org/>. RStudio se puede descargar siguiendo el enlace: <https://posit.co/>.
+
+  En el curso se abordarán brevemente otras IDE (Integrated Development Environment) para trabajar con R.
+
+  - [Positron](https://positron.posit.co/download.html)
+  - [Visual Studio Code](https://code.visualstudio.com)
+  - [Google Colaboratory](https://colab.research.google.com)
+  - [Google Antigravity](https://antigravity.google)
+  
+
+- **Experiencia en la instalación de paquetes en R**
+
+  Todos los paquetes R que utilizaremos en este curso se podrán descargar e instalar durante el taller en sí, según sea necesario, y se pondrá a disposición de todos los asistentes una lista completa de los paquetes necesarios antes del curso
+
+
+
+## Inscripción al curso
+
+Las inscripciones estarán abiertas tan pronto como el Director & Subdirector de Vectores del CENAPRECE autorize las unidades didácticas del curso. El link para la inscripción la encontrarán en este apartado.
+
+[Inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfQxc3t8rBwtJDxUn-LWmDp-kaMQPkTugrOP6aJtKKgi47LqA/viewform)
+
+## Examen
+
+Se realizará un examen previo y posterior al curso. El exámen previo se realizá una semana antes del curso y el exámen posterior se realizará durante el curso.
+
+[Examen Previo](https://docs.google.com/forms/d/1V1DptfSkH-LxX-7qJrVH1LLumK0Ropi10Ak_eLSxn9c/edit?pli=1)

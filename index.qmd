@@ -1,0 +1,24 @@
+---
+title: ""
+---
+
+
+# **Objetivo General**
+
+El curso títulado **Binary Regression** tiene como objetivo central desarrollar las competencias específicas para implementar modelos lineales generalizados (GLM = Generalized Linear Models) para datos binarios en R.
+
+# **Objetivos Específicos**
+
+1.  Introducción R y Rstudio.
+
+2.  Importación y preparación de datos.
+
+3.  Análisis Exploratorio (EDA)
+
+4. Binary Regression
+
+
+
+# Audiencia
+
+El curso de **Binary Regression**, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de enfermedades la Secretaría de Salud de México, sino también a estudianres y en general a la comunidad académica interesada en la aplicación de  modelos lineales generalizados con datos binarios.

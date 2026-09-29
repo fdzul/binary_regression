@@ -1,0 +1,43 @@
+---
+title: ""
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Modelling Binary Data
+
+[![](https://images.routledge.com/common/jackets/amazon/978158488/9781584883241.jpg)](https://www.routledge.com/Modelling-Binary-Data/Collett/p/book/9781584883241)
+
+------------------------------------------------------------------------
+
+# Applied Logistic Regression
+
+[![](https://onlinelibrary.wiley.com/cms/asset/00a553ce-6e8e-4fe5-b6f9-16c68587da9b/9781118548387.cover.gif)](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118548387)
+
+------------------------------------------------------------------------
+
+# Generalized Linear Models and Extensions
+
+[![](https://images.routledge.com/common/jackets/amazon/978159718/9781597182256.jpg)](https://www.routledge.com/Generalized-Linear-Models-and-Extensions-Fourth-Edition/Hardin-Hilbe/p/book/9781597182256)
+
+------------------------------------------------------------------------
+
+# Logistic Regression Models
+
+[![](https://images.routledge.com/common/jackets/amazon/978113810/9781138106710.jpg)](https://www.routledge.com/Logistic-Regression-Models/Hilbe/p/book/9781138106710)
+
+
+------------------------------------------------------------------------
+
+# Practical Guide to Logistic Regression
+
+[![](https://images.routledge.com/common/jackets/amazon/978149870/9781498709576.jpg)](https://www.routledge.com/Practical-Guide-to-Logistic-Regression/Hilbe/p/book/9781498709576)
+
+------------------------------------------------------------------------
+
+# Logistic Regression
+Bridging Theory and Practice
+
+[![](https://images.routledge.com/common/jackets/amazon/978104124/9781041248118.jpg)](https://www.routledge.com/Logistic-Regression-Bridging-Theory-and-Practice/Doosti/p/book/9781041248118)
+

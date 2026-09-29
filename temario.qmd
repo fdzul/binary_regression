@@ -1,0 +1,70 @@
+---
+title: ""
+---
+
+## Temario
+
+### Módulo I. Introduccion
+
+```{r temario_modulo_I, echo=FALSE}
+tibble::tibble("Modulo 1" = c(rep("Introducción", 
+                                times = 15), 
+                              rep("Importación y Preparacion de datos", 
+                                times = 8)),
+               Tema = c("Instalar R, Rtools y Posit",
+                        "Ambientes de Desarrollo Integrado",
+                        "Rstudio/Posit",
+                        "Visual Studio Code",
+                        "Positron",
+                        "Antigravity",
+                        "Jupyter Notebook",
+                        "Google Colaboratory",
+                        "Introducción a R y Rstudio",
+                        "Instalacion de Paquetes desde CRAN", 
+                        "Instalacion de Paquetes de Github", 
+                        "Instalacion de Paquetes de Bioconductor",
+                        "Instalacion de Paquetes desde un Archivo Binario",
+                        "Crear proyectos en Rstudio",
+                        "Ciclo de vida de los Proyecto de Ciencia de Datos",
+                        "Importar Datos Tabulares",
+                        "Revisión de lo base de datos",
+                        "Procesamiento y preparación de la base de datos",
+                        "Columnas: mutate, select, rename, relocate",
+                        "Filas: filter, arrange, desc, slice, distinct, count",
+                        "Grupos: group_by, summarize, n, by, nest",
+                        "tidy dataset: pivot_longer, pivot_wider",
+                        "combinación de datasets: left_joint, right_joint")) |>
+    reactable::reactable(defaultPageSize = 15+8,
+                         theme = reactablefmtr::flatly(),
+                         filterable = FALSE,
+                         striped = TRUE,
+                         minRows = 10,
+                         resizable = TRUE, 
+                         wrap = FALSE, 
+                         bordered = TRUE)
+
+```
+
+### Módulo II. Binary Regresion
+
+```{r temario_modulo_II, echo=FALSE}
+tibble::tibble("Modulo 1" = c(rep("Introducción a la regresión de datos binarios", 
+                                times = 4)),
+               Tema = c("Datos Binarios y proporcionales",
+                        "Regresion logit",
+                        "Regresion Probit",
+                        "Otras regresiones binarias")) |>
+    reactable::reactable(defaultPageSize = 10,
+                         theme = reactablefmtr::flatly(),
+                         filterable = FALSE,
+                         striped = TRUE,
+                         minRows = 10,
+                         resizable = TRUE, 
+                         wrap = FALSE, 
+                         bordered = TRUE)
+
+```
+
+
+
+

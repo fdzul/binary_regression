@@ -1,0 +1,51 @@
+---
+title: ""
+---
+
+## Laboratorio de la Unidad I
+
+### Objetivo.
+
+Que los alumnos desarrollen las competencias específicas para instalar paquetes desde [CRAN](https://cran.r-project.org), [GitHub](https://github.com) o archivos binarios.
+
+### Actividades
+
+Instalar los siguientes paquete desde CRAN
+
+- [tidyverse](https://www.tidyverse.org)
+- [easystats](https://easystats.github.io/easystats/)
+- [tidymodels](https://www.tidymodels.org)
+- [data.table](http://rdatatable.gitlab.io/data.table/)
+- [reactable](https://glin.github.io/reactable/)
+- [ggplot2](https://ggplot2.tidyverse.org)
+
+Instalar los siguientes paquete desde GitHub
+
+- [KrigR](https://github.com/ErikKusch/KrigR)
+
+- [toptendismex](https://fdzul.github.io/toptendismx/)
+
+Instalar los siguientes paquetes desde bioconductor
+
+- [graph](https://bioconductor.org/packages/3.23/bioc/html/graph.html)
+
+- [Rgraphviz](https://bioconductor.org/packages/3.23/bioc/html/Rgraphviz.html)
+
+
+Instalar al menos un pkg desde archivo.
+
+
+
+
+## Laboratorio de la Unidad II
+
+### Objetivo.
+
+
+
+### Actividad 1
+
+
+
+### Actividad 2
+

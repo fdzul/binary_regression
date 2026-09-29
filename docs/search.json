@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Objetivo General",
+    "section": "",
+    "text": "Objetivo General\nEl curso títulado Binary Regression tiene como objetivo central desarrollar las competencias específicas para implementar modelos lineales generalizados (GLM = Generalized Linear Models) para datos binarios en R.\n\n\nObjetivos Específicos\n\nIntroducción R y Rstudio.\nImportación y preparación de datos.\nAnálisis Exploratorio (EDA)\nBinary Regression\n\n\n\nAudiencia\nEl curso de Binary Regression, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de enfermedades la Secretaría de Salud de México, sino también a estudianres y en general a la comunidad académica interesada en la aplicación de modelos lineales generalizados con datos binarios."
+  },
+  {
+    "objectID": "about.html#formato-del-curso",
+    "href": "about.html#formato-del-curso",
+    "title": "Binary Regression",
+    "section": "Formato del Curso",
+    "text": "Formato del Curso\n\nCurso presencial.\n10:00 a 12:00 horas"
+  },
+  {
+    "objectID": "about.html#sede",
+    "href": "about.html#sede",
+    "title": "Binary Regression",
+    "section": "Sede",
+    "text": "Sede\n\nAula 4-5\nInstituto Nacional de Salud Pública.\nUniversidad No. 655 Colonia Santa María Ahuacatitlán, Cerrada Los Pinos y Caminera. Cuernavaca, Morelos, México."
+  },
+  {
+    "objectID": "about.html#fecha",
+    "href": "about.html#fecha",
+    "title": "Binary Regression",
+    "section": "Fecha",
+    "text": "Fecha\nDel 29 septiembre a 30 de octubre del 2026"
+  },
+  {
+    "objectID": "about.html#requisitos-de-conceptos-teóricos",
+    "href": "about.html#requisitos-de-conceptos-teóricos",
+    "title": "Binary Regression",
+    "section": "Requisitos de conceptos teóricos",
+    "text": "Requisitos de conceptos teóricos\nEs ideal tener conocimiento de regresiones líneales, regresiones para datos de conteos o regresiones para datos binarios, pero no es necesario."
+  },
+  {
+    "objectID": "about.html#requisitos-computacionales",
+    "href": "about.html#requisitos-computacionales",
+    "title": "Binary Regression",
+    "section": "Requisitos computacionales",
+    "text": "Requisitos computacionales\nEs deseable tener experiencia en R o Python o cualquier otro lenguaje de programación, principalmente en subir archivos de texto (csv, txt, xlsx), crear gráficos simples y manipular bases de datos en R. Sin embargo, si no se tiene experiencia con R pero ya usa otros software y tiene un conocimiento sólido de los tipos de datos geográficos, algo o nula experiencia en programación, el curso también puede ser apropiado para usted siempre y cuando tenga la necesidad ó el deseo aprender nuevas herramientas GLM y datos binarios en R."
+  },
+  {
+    "objectID": "about.html#requisitos-de-equipo-software",
+    "href": "about.html#requisitos-de-equipo-software",
+    "title": "Binary Regression",
+    "section": "Requisitos de Equipo & Software",
+    "text": "Requisitos de Equipo & Software\n\nComputadora\nSe requiere una computadora portátil con una versión funcional de R, RStudio y Rtools. R y RStudio están disponibles como software gratuito y de código abierto para Windows, Mac y Linux. R y Rtools se puede descargar siguiendo el enlace https://www.r-project.org/. RStudio se puede descargar siguiendo el enlace: https://posit.co/.\nEn el curso se abordarán brevemente otras IDE (Integrated Development Environment) para trabajar con R.\n\nPositron\nVisual Studio Code\nGoogle Colaboratory\nGoogle Antigravity\n\nExperiencia en la instalación de paquetes en R\nTodos los paquetes R que utilizaremos en este curso se podrán descargar e instalar durante el taller en sí, según sea necesario, y se pondrá a disposición de todos los asistentes una lista completa de los paquetes necesarios antes del curso"
+  },
+  {
+    "objectID": "about.html#inscripción-al-curso",
+    "href": "about.html#inscripción-al-curso",
+    "title": "Binary Regression",
+    "section": "Inscripción al curso",
+    "text": "Inscripción al curso\nLas inscripciones estarán abiertas tan pronto como el Director & Subdirector de Vectores del CENAPRECE autorize las unidades didácticas del curso. El link para la inscripción la encontrarán en este apartado.\nInscripción"
+  },
+  {
+    "objectID": "about.html#examen",
+    "href": "about.html#examen",
+    "title": "Binary Regression",
+    "section": "Examen",
+    "text": "Examen\nSe realizará un examen previo y posterior al curso. El exámen previo se realizá una semana antes del curso y el exámen posterior se realizará durante el curso.\nExamen Previo"
+  },
+  {
+    "objectID": "temario.html",
+    "href": "temario.html",
+    "title": "Binary Regression",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "temario.html#quarto",
+    "href": "temario.html#quarto",
+    "title": "Binary Regression",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "temario.html#running-code",
+    "href": "temario.html#running-code",
+    "title": "Binary Regression",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "Labs.html",
+    "href": "Labs.html",
+    "title": "Binary Regression",
+    "section": "",
+    "text": "Que los alumnos desarrollen las competencias específicas para instalar paquetes desde CRAN, GitHub o archivos binarios.\n\n\n\nInstalar los siguientes paquete desde CRAN\n\ntidyverse\neasystats\ntidymodels\ndata.table\nreactable\nggplot2\n\nInstalar los siguientes paquete desde GitHub\n\nKrigR\ntoptendismex\n\nInstalar los siguientes paquetes desde bioconductor\n\ngraph\nRgraphviz\n\nInstalar al menos un pkg desde archivo."
+  },
+  {
+    "objectID": "Labs.html#laboratorio-de-la-unidad-i",
+    "href": "Labs.html#laboratorio-de-la-unidad-i",
+    "title": "Binary Regression",
+    "section": "",
+    "text": "Que los alumnos desarrollen las competencias específicas para instalar paquetes desde CRAN, GitHub o archivos binarios.\n\n\n\nInstalar los siguientes paquete desde CRAN\n\ntidyverse\neasystats\ntidymodels\ndata.table\nreactable\nggplot2\n\nInstalar los siguientes paquete desde GitHub\n\nKrigR\ntoptendismex\n\nInstalar los siguientes paquetes desde bioconductor\n\ngraph\nRgraphviz\n\nInstalar al menos un pkg desde archivo."
+  },
+  {
+    "objectID": "Labs.html#laboratorio-de-la-unidad-ii",
+    "href": "Labs.html#laboratorio-de-la-unidad-ii",
+    "title": "Binary Regression",
+    "section": "Laboratorio de la Unidad II",
+    "text": "Laboratorio de la Unidad II\n\nObjetivo.\nQue el personal de vectores desarrolle las competencias específicas para realizar la geocodificación y el análisis de los focos de la transmisión activa de las arbovirosis en R\n\n\nActividad 1\n\n\nActividad 2"
+  },
+  {
+    "objectID": "contacto.html",
+    "href": "contacto.html",
+    "title": "Dr. Felipe Antonio Dzul Manzanilla",
+    "section": "",
+    "text": "Dr. Felipe Antonio Dzul Manzanilla\n\nTelefono personal: 999 958 0167\nTelefono oficina: 329 30 00 Ext. 3225\nCorreo: felipe.dzul.m@gmail.com, investigador41@insp.mx\nGoogle académico: https://scholar.google.es/citations?user=3e3-4VkAAAAJ&hl=es\ngithub: https://github.com/fdzul\nbio : https://sparkly-kleicha-e38ffa.netlify.app\ninsp: https://www.insp.mx/centros/sistemas-de-salud/investigador/dzul-manzanilla-felipe-antonio"
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Modelling Binary Data",
+    "section": "",
+    "text": "Modelling Binary Data\n\n\n\n\nApplied Logistic Regression\n\n\n\n\nGeneralized Linear Models and Extensions\n\n\n\n\nLogistic Regression Models\n\n\n\n\nPractical Guide to Logistic Regression\n\n\n\n\nLogistic Regression\nBridging Theory and Practice"
+  }
+]
