@@ -1,0 +1,200 @@
+/* ============================================
+   Estilos para presentación Intro R y RStudio
+   ============================================ */
+
+/* Variables de color */
+:root {
+  --blue-primary: #1e5b4f;
+  --blue-dark: #002f2a;
+  --blue-light: #3b7a6e;
+  --blue-pale: #eef5f3;
+  --blue-card: #f6faf8;
+  --text-dark: #161a1d;
+  --text-body: #2d3338;
+  --white: #ffffff;
+  --border-accent: #9b2247;
+  --border-light: #d1cfcd;
+  
+  /* Colores de acento adicionales (opcionales) */
+  --accent-wine: #9b2247;
+  --accent-wine-dark: #611232;
+  --accent-gold: #a57f2c;
+  --accent-gold-light: #e6d194;
+}
+
+
+/* ---- Slide de título principal ---- */
+.title-slide-custom {
+  text-align: left;
+}
+
+.title-main {
+  font-size: 2.2em;
+  font-weight: 700;
+  color: var(--white);
+  line-height: 1.2;
+  margin-bottom: 0.6em;
+}
+
+.course-info {
+  font-size: 1em;
+  color: rgba(255,255,255,0.8);
+  margin-bottom: 1.2em;
+  line-height: 1.6;
+}
+
+.r-logo {
+  position: absolute;
+  right: 8%;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 8em;
+  font-weight: 900;
+  color: rgba(255,255,255,0.25);
+  letter-spacing: -0.05em;
+}
+
+/* ---- Subtítulo ---- */
+/* diapo 3 */
+.subtitle-text {
+  font-size: 1.1em;
+  color: rgba(255,255,255,0.75);
+  letter-spacing: 0.05em;
+  margin-top: 1em;
+}
+
+/* ---- Feature cards (¿Por qué R?) ---- */
+.feature-card {
+  background-color: var(--blue-card);
+  border-left: 4px solid var(--blue-primary);
+  border-radius: 4px;
+  padding: 0.45em 0.9em;
+  margin-bottom: 0.4em;
+  font-size: 0.68em;
+  color: var(--text-body);
+  line-height: 1.35;
+}
+
+.feature-card strong {
+  display: block;
+  color: var(--blue-primary);
+  font-size: 1em;
+  font-weight: 700;
+  margin-bottom: 0.1em;
+}
+
+/* ---- Install boxes ---- */
+.install-box {
+  border: 1px solid var(--border-light);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.install-header {
+  text-align: center;
+  font-size: 0.60em;
+  font-weight: 700;
+  color: var(--white);
+  padding: 0.45em 1em;
+}
+
+.install-r {
+  background-color: var(--blue-primary);
+}
+
+.install-rstudio {
+  background-color: var(--blue-light);
+}
+
+.install-body {
+  padding: 0.5em 0.9em 0.6em 0.7em;
+  background-color: var(--white);
+}
+
+.install-body ul,
+.reveal .install-body ul {
+  font-size: 0.60em;
+  line-height: 1.55;
+  color: var(--text-body);
+  padding-left: 1em;
+  margin: 0;
+}
+
+.install-body ul li {
+  margin-bottom: 0.18em;
+}
+
+/* ---- Callout para cita ---- */
+.callout-note {
+  background-color: var(--blue-card);
+  border-left: 4px solid var(--blue-light);
+  border-radius: 4px;
+  padding: 1em 1.4em;
+  font-style: italic;
+  color: #4a6580;
+  font-size: 0.95em;
+  line-height: 1.6;
+  margin-top: 1.5em;
+}
+
+/* ---- Slide general ---- */
+.reveal .slides section {
+  font-size: 40px;
+  font-family: 'Calibri', 'Segoe UI', sans-serif;
+  color: var(--text-body);
+}
+
+.reveal h2 {
+  color: var(--blue-primary);
+  font-weight: 700;
+  font-size: 1.4em;
+  border-bottom: 2px solid var(--border-light);
+  padding-bottom: 0.2em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+/* ---- Listas ---- */
+.reveal ul {
+  font-size: 0.82em;
+  line-height: 1.55;
+  color: var(--text-body);
+  padding-left: 1.2em;
+}
+
+.reveal ul li {
+  margin-bottom: 0.2em;
+}
+
+/* ---- Slide número ---- */
+.slide-number {
+  color: var(--blue-light);
+  font-size: 0.8em;
+}
+
+/* ---- Footer ---- */
+.reveal .footer {
+  font-size: 0.7em;
+  color: rgba(100, 130, 160, 0.8);
+}
+
+/* ---- Fondo diapositiva título ---- */
+.reveal[data-background-color="#1a7abf"] h2 {
+  color: var(--white);
+  border-bottom-color: rgba(255,255,255,0.3);
+}
+
+/* ---- Control de desbordamiento en diapositivas con columnas ---- */
+.reveal .slides section .columns {
+  align-items: flex-start;
+}
+
+.reveal .slides section {
+  overflow: hidden;
+}
+
+/* Reducir padding vertical de las secciones para ganar espacio */
+.reveal .slides > section,
+.reveal .slides > section > section {
+  padding: 20px 40px !important;
+}
